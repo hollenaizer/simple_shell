@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
  * main - Prints Small Letter Alphabet except e and q
- *
  * Return: 0
  */
 
