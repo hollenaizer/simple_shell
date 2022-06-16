@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "shell.h"
 
 /**
  * copy_info - copies info to create
